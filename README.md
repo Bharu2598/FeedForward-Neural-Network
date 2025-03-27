@@ -1,5 +1,4 @@
 # FeedForward-Neural-Network
-# Feedforward Neural Network for Banknote Classification
 
 ## Overview
 This repository contains a Python implementation of a **Feedforward Neural Network (FNN)** for classifying banknotes as either genuine or counterfeit. The model is built using **TensorFlow/Keras** and trained on a dataset containing numerical features extracted from banknotes.
