@@ -12,7 +12,7 @@ The dataset consists of banknote features and their corresponding class labels:
 - **Class Label (0 = Genuine, 1 = Counterfeit)**
 
 ### Download Dataset
-Kindly download the **banknote.csv** file from the attachments and place it in the same directory as the script.
+Kindly download the **banknote_Authentication.csv** file from the attachments and place it in the same directory as the script.
 
 ## Installation
 Ensure you have Python installed, and install the necessary libraries using:
