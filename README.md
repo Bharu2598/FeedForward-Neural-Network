@@ -34,7 +34,7 @@ The script performs the following steps:
 To train and evaluate the model, run the following command:
 
 ```bash
-python banknote_fnn.py
+python FeedForwardTechnique.py
 ```
 
 ## Model Architecture
